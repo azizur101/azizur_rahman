@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
         Children: [
           RaisedButton(
             child: Text(Button 1),
-             color: Colors.lime,
+
               onPressed:(){
                setState(() {
                  btnText="Button pressed";
